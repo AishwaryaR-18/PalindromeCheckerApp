@@ -1,7 +1,4 @@
-import java.util.Scanner;
-
-public class Main{
-
+public class PalindromeCheckerApp {
 
 
     public static void main(String[] args) {
